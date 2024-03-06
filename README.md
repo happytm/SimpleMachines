@@ -1,2 +1,3 @@
-# SimpleMachines
-Applications of simple machines
+# Simple Machines
+
+- https://en.wikipedia.org/wiki/Simple_machine
